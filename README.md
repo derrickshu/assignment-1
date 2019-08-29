@@ -62,4 +62,4 @@ Below are some references if you need help:
 
 **Important**: files should be committed to the newly created private repository (after following the above link) and _not_ to your forked version of the [assignment-1](https://github.com/MUSA-620-Fall-2019/assignment-1) repository.
 
-Your Jupyter notebook should be submitted to your private repository by the deadline, 5pm on 9/5.
+**Your Jupyter notebook should be submitted to your private repository by the deadline, 5pm on 9/5.**
