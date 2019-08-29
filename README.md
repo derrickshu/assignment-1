@@ -55,6 +55,8 @@ submitted. Only the student and instructors will have access to the private repo
 
 The invitation link for this week is:
 
+https://classroom.github.com/a/DrfpaX86
+
 If you do not have a GitHub account yet, you should be prompted to make an account. After clicking on this link, GitHub will create a new private repo with permissions such that only you and the instructors can view the commits.
 
 The assignment should be added to this GitHub repository before the deadline. You can add files to the repository through the web (github.com) interface or using the command line locally on your machine.
