@@ -17,15 +17,8 @@ The course materials repository also includes notes on:
 
 ## Part 2: Finding the Philadelphia ZIP Code with the maximum ZHVI over time
 
-To run Python locally, start a Jupyter notebook by running the following command
-from the command line:
-
-```
-conda activate musa
-jupyter notebook
-```
-
-For help running the notebook, see the tutorial from the [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/running.html#running).
+Assuming you've successfully installed Python locally, now you can launch a Jupyter notebook with the `musa-620` environment. Notes on this
+process can be found [here](https://github.com/MUSA-620-Fall-2019/course-materials/blob/master/anaconda-guide/managing-packages.md#launching-a-jupyter-notebook). For additional help running the notebook, see the tutorial from the [Jupyter documentation](https://jupyter.readthedocs.io/en/latest/running.html#running).
 
 This will create the local Jupyter server. If it does not open in a browser, copy the link that is output by the command into your favorite browser. Once the server is running, you can create a new notebook and get started!
 
